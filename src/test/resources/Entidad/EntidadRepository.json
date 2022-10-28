@@ -1,0 +1,439 @@
+[
+  {
+    "id_entidad": 8,
+    "nro_documento": "12313666",
+    "razon_social": "SYL S.A.C56",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Buenos aires",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 9,
+    "nro_documento": "9999999999999999999919",
+    "razon_social": "SYL S.A.C56",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Buenos aires",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 2,
+      "codigo": "7",
+      "nombre": "PASAPORTE",
+      "descripcion": "PASAPORTE",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 13,
+    "nro_documento": "2050513275524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 3,
+      "codigo": "11",
+      "nombre": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "descripcion": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 16,
+    "nro_documento": "205051233275524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 3,
+      "codigo": "11",
+      "nombre": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "descripcion": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 17,
+    "nro_documento": "205053453222375524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 3,
+      "codigo": "11",
+      "nombre": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "descripcion": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 19,
+    "nro_documento": "205054345322237542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 3,
+      "codigo": "11",
+      "nombre": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "descripcion": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 21,
+    "nro_documento": "2050543453222212337542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 3,
+      "codigo": "11",
+      "nombre": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "descripcion": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 22,
+    "nro_documento": "2050543337542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 3,
+      "codigo": "11",
+      "nombre": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "descripcion": "PARTIDA DE NACIMIENTO - IDENTIDAD",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 25,
+    "nro_documento": "205052343337542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": null,
+    "telefono": null,
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": null
+  },
+  {
+    "id_entidad": 27,
+    "nro_documento": "20501235232343337542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 28,
+    "nro_documento": "201337542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 30,
+    "nro_documento": "2011337542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 31,
+    "nro_documento": "201142524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 34,
+    "nro_documento": "20661142524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": null,
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 35,
+    "nro_documento": "2099991337542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 36,
+    "nro_documento": "205051327559024",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 37,
+    "nro_documento": "20505132790559024",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 41,
+    "nro_documento": "20505132790559213123024",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 42,
+    "nro_documento": "211111011337542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 43,
+    "nro_documento": "2161111011337542524",
+    "razon_social": "SYL S.A.C",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  },
+  {
+    "id_entidad": 44,
+    "nro_documento": "21671111011337542524",
+    "razon_social": "",
+    "nombre_comercial": "SYL CARGO NOMBRE COMERCIAL",
+    "direccion": "Jr. Comandante Jimenez Nro. 166 Int. a (entre Cuadra 7 y 8 Javier Padro Oeste)",
+    "telefono": "79845612",
+    "estado": true,
+    "tipoDocumento": {
+      "id_tipo_documento": 1,
+      "codigo": "4",
+      "nombre": "CARNET DE EXTRANJERIA",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "estado": "1"
+    },
+    "tipoContribuyente": {
+      "id_tipo_contribuyente": 1,
+      "nombre": "Natural Sin Negocio",
+      "estado": "1"
+    }
+  }
+]
